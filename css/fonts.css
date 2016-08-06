@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Susa-Regular';
+  font-weight: regular;
+  src: url('../fonts/HUBERT JOCHAM Susa-Regular.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Robot-Black';
+  src: url('../fonts/Roboto-Black.ttf')  format('truetype');
+}
